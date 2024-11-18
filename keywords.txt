@@ -1,0 +1,2 @@
+Blinker		KEYWORD1
+blinkNtimes	KEYWORD2
